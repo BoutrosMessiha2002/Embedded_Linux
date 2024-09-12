@@ -2,7 +2,7 @@
 
 # Bash Script to Analyze Network Traffic
 
-
+#Author: Boutros George Sabri
 
 # Input: Path to the Wireshark pcap file
 pcap_file="./captured_packets.pcap"
